@@ -1,4 +1,4 @@
-public class patter_name {
+public class patternName {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub
