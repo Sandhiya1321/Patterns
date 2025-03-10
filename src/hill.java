@@ -10,18 +10,15 @@ public class hill {
                 System.out.print(" ");
             }
             for(int j=1;j<i;j++) {
-                System.out.print(n++ +" ");
+                System.out.print(" "+n++ +" ");
 
             }
             for(int j=1;j<=i;j++) {
-                System.out.print(n-- +" ");
+                System.out.print(" "+n-- +" ");
 
             }
             System.out.println();
         }
-
-
-
 //hill pattern increase
         for(int i=1;i<=4;i++) {
             int n=1;
@@ -29,11 +26,11 @@ public class hill {
                 System.out.print(" ");
             }
             for(int j=1;j<i;j++) {
-                System.out.print(n++ +" ");
+                System.out.print(" "+n++ +" ");
 
             }
             for(int j=1;j<=i;j++) {
-                System.out.print(n++ +" ");
+                System.out.print(" "+n++ +" ");
 
             }
             System.out.println();
